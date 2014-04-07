@@ -1,0 +1,5 @@
+<Addon Name="GorynychGalacticArchive" Version="0.9" Author="Ridmant" APIVersion="7" Description="">
+    <Script Name="GorynychGalacticArchive.lua"/>
+    <Form Name="GorynychGalacticArchive.xml"/>
+    <ReplaceAddon Name="GalacticArchive"/>
+</Addon>

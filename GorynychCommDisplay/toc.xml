@@ -1,0 +1,5 @@
+<Addon Name="GorynychCommDisplay" Version="0.9" Author="Ridmant" APIVersion="7" Description="">
+    <Script Name="GorynychCommDisplay.lua"/>
+    <Form Name="GorynychCommDisplay.xml"/>
+    <ReplaceAddon Name="CommDisplay"/>
+</Addon>

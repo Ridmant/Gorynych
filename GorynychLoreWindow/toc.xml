@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Addon Author="Ridmant" APIVersion="7" Name="GorynychLoreWindow" Description="" Version="0.9">
+    <Script Name="GorynychLoreWindow.lua"/>
+    <Form Name="GorynychLoreWindow.xml"/>
+    <ReplaceAddon Name="LoreWindow"/>
+</Addon>

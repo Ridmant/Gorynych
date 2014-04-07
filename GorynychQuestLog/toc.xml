@@ -1,0 +1,5 @@
+<Addon Name="GorynychQuestLog" Author="Ridmant" APIVersion="7" Version="0.9" Description="">
+    <Script Name="GorynychQuestLog.lua"/>
+    <Form Name="GorynychQuestLog.xml"/>
+    <ReplaceAddon Name="QuestLog"/>
+</Addon>

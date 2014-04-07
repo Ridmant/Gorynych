@@ -1,0 +1,5 @@
+<Addon Name="GorynychQuestTracker" Version="0.9" Author="Ridmant" APIVersion="7" Description="">
+    <Script Name="GorynychQuestTracker.lua"/>
+    <Form Name="GorynychQuestTracker.xml"/>
+    <ReplaceAddon Name="QuestTracker"/>
+</Addon>
