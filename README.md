@@ -1,0 +1,4 @@
+Gorynych
+========
+
+WildStar Localisation Addon
